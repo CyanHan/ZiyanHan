@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student from Nanjing University and recently defended my PhD thesis. My research centers on experimental petrology and isotopic geochemistry, particularly the volatile evolution of the Moon and other airless bodies. 
+I am a PhD student from Nanjing University and recently defended my PhD thesis. My research centers on experimental petrology and isotopic geochemistry, particularly the volatile evolution of the Moon and other airless bodies. /t
 My research interests mostly focus on:
 1) Origin and evolution of rocky planets; 
 2) Evaporation process in nebular and planetary process; 
