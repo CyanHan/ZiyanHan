@@ -21,10 +21,10 @@ repository               : "https://github.com/CyanHan/ZiyanHan"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "personal_pic.png"
   name             : "Ziyan Han"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Experimental petrology/Cosmochemistry/Isotope geochemistry"
   location         : "Nanjing, China"
   employer         : # "Red Brick University"
   uri              : # URL
