@@ -18,9 +18,9 @@ You can find my [CV](../files/CV_Ziyan Han_G.pdf) here.
 
 Education
 ======
-* Nanjing University, Nanjing, China							              		Sep 2018-Dec 2024
+* **Sep 2018-Dec 2024** Nanjing University, Nanjing, China							              		
 * Ph.D. in Geology (Planetary materials and evolution)
-* China University of Geosciences (Wuhan), Wuhan, China			    		Sep 2014-Jun 2018
+* **Sep 2014-Jun 2018** China University of Geosciences (Wuhan), Wuhan, China			    		
 * B.S. (Honors) in Geology
 
   
