@@ -14,7 +14,7 @@ Summary
 Ph.D. in Cosmochemistry with experience in experimental petrology and isotope geochemistry.
 Experienced in the use of gas-mixing furnaces, aerodynamic levitation laser-heated furnaces, and TIMS.
 My research investigates volatility of Cl, K, Ni and their isotope fractionations during evaporation to constrain the volatile history of the early Moon and the Solar System. 
-You can find my [CV](ZiyanHan/files/CV_Ziyan Han_G.pdf) here.
+You can find my [CV](files/CV_Ziyan Han_G.pdf) here.
 
 Education
 ======
