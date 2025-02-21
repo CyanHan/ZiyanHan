@@ -9,10 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-
-
-Summary
-=====
 Ph.D. in Cosmochemistry with experience in experimental petrology and isotope geochemistry.
 Experienced in the use of gas-mixing furnaces, aerodynamic levitation laser-heated furnaces, and TIMS.
 My research investigates volatility of Cl, K, Ni and their isotope fractionations during evaporation to constrain the volatile history of the early Moon and the Solar System. 
