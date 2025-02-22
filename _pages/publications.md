@@ -3,7 +3,7 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
---- --
+---
 
 You can also find my up-to-date list on my [Google Scholar](https://scholar.google.ca/citations?user=buYPeaYAAAAJ) profile
 
