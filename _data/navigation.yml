@@ -26,12 +26,14 @@ main:
   - title: "Publications"
     url: /publications/
     
+ # - title: "News"
+  #  url: /news/
   - title: "News"
-    url: /news/
-    
+    url: /talks/ 
   
   - title: "Gallary"
-    url: /gallary/
+    #url: /gallary/
+    url: /portfolio/
   #  url: /year-archive/
   #- title: "Guide"
    # url: /markdown/
