@@ -1,6 +1,8 @@
 ---
 title: "Birding at AGU 2023 fall meeting"
-excerpt: "Anna's Hummingbird <br/><img src='../images/2312SF_bird/202312_SF-13.jpg'>"
+excerpt: "<br/><img src='../images/2312SF_bird/202312_SF-13.jpg'> Anna's Hummingbird"
+date:2023-12-18
+location: San Fransisco, America
 collection: portfolio
 ---
 
