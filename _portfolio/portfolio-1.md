@@ -6,7 +6,7 @@ location: San Fransisco, America
 collection: portfolio
 ---
 
-I spent some time birding while staying in San Fransisco at AGU 2023. This was my first time in America. I was amazed by these creatures on the new continent. Here are some pictures I would like to share.
+During my stay in San Francisco for AGU 2023, I took the opportunity to explore the local birdlife. As my first visit to America, I was captivated by the incredible diversity of creatures on this new continent. Here are some photos I’d love to share.
 
 Western Bluebird
-[Western Bluebird](../images/2312SF_bird/202312_SF.jpg)
+![Western Bluebird](../images/2312SF_bird/202312_SF.jpg)
