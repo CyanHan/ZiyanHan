@@ -29,7 +29,7 @@ main:
  # - title: "News"
   #  url: /news/
   - title: "News"
-    url: /news/ 
+    url: /talks/ 
   
   - title: "Gallary"
     #url: /gallary/
