@@ -1,7 +1,7 @@
 ---
 title: "I defended my PhD thesis!"
-collection: gallary
-type: "gallary"
+collection: portfolio
+type: "portfolio"
 permalink: /gallary/2024-11-23-news
 date: 2024-11-23
 location: "Nanjing, China"
