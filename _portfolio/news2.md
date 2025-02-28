@@ -2,7 +2,7 @@
 title: "I defended my PhD thesis!"
 collection: portfolio
 type: "portfolio"
-permalink: /gallary/2024-11-23-news
+permalink: /portfolio/2024-11-23-news
 date: 2024-11-23
 location: "Nanjing, China"
 ---
