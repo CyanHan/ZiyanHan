@@ -15,5 +15,5 @@ My research interests mostly focus on:
 * Formation of chondrules and CAI;   
 * Intersection between high temperature experiments and isotopes in planetary science
 
-When I'm not doing science, I enjoy hiking and birdwatching. You can check out some of the photos I've taken in the Gallery. Feel free to join me for birding or nature observation if you spot me at a conference!
+When I'm not doing science, I enjoy hiking and birdwatching. You can check out some of the photos I've taken in the [Gallery](https://cyanhan.github.io/ZiyanHan/portfolio/). Feel free to join me for birding or nature observation if you spot me at a conference!
 
