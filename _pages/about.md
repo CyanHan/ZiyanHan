@@ -16,6 +16,6 @@ My research interests mostly focus on:
 * Evaporation process in nebular and planetary process;   
 * Formation of chondrules and CAI;   
 * Intersection between high temperature experiments and isotopes in planetary science
-
+<img src="../images/dd12b838c798fd24522e06d0d0cc89e.jpg" alt="磨样品" style="width: auto; height: 300px;" /> <img src="..images/852a0720fe906569cf62048a40abc29.jpgg" alt="装样品" style="width: auto; height: 300px;" />
 When I'm not doing science, I enjoy hiking and birdwatching. You can check out some of the photos I've taken in the [Gallery](https://cyanhan.github.io/ZiyanHan/portfolio/). Feel free to join me for birding or nature observation if you spot me at a conference!
 
