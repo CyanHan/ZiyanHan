@@ -10,7 +10,7 @@ location: "Nanjing, China"
 
 I started birdwatching on Nanjing University (NJU) ’s Xianlin campus during the 2022 lockdown. While I love spotting birds in different parts of Nanjing and beyond, I find just as much joy in observing the ones nearby—following their migrations and daily lives.
 
-During my time on campus, I discovered two bird species that were newly recorded in Nanjing. I also compiled a [checklist](https://docs.qq.com/sheet/DVkJEekF0TGZSQ2xs?tab=BB08J2) of birds found at NJU, which has now been referenced by a peer-reviewed publication (see [pdf](.../files/南京大学仙林校区的鸟类与兽类多样性.pdf)). This checklist is now managed by the university’s Nature Society.
+During my time on campus, I discovered two bird species that were newly recorded in Nanjing. I also compiled a [checklist](https://docs.qq.com/sheet/DVkJEekF0TGZSQ2xs?tab=BB08J2) of birds found at NJU, which has now been referenced by a peer-reviewed publication (see [pdf](../files/南京大学仙林校区的鸟类与兽类多样性.pdf)). This checklist is now managed by the university’s Nature Society.
 
 I made the 2023 [Annual Report on NJU Birds](https://mp.weixin.qq.com/s/t_BM6Cz-xqwq2nKqQLT4yA) (in Chinese), where you can see the 10 most common species on campus and the newly recorded ones in 2023.
 
